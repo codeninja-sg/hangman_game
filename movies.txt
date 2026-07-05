@@ -1,9 +1,8 @@
-Dune: Part Two
+Dune
 Inside Out 2
 Deadpool & Wolverine
 Oppenheimer
 Barbie
-Spider-Man: Across the Spider-Verse
 Poor Things
 Past Lives
 Anatomy of a Fall
@@ -11,17 +10,15 @@ The Holdovers
 Godzilla Minus One
 Killers of the Flower Moon
 Everything Everywhere All at Once
-Top Gun: Maverick
+Top Gun
 The Batman
 Avatar: The Way of Water
 The Banshees of Inisherin
 Tár
-Glass Onion: A Knives Out Mystery
+Glass Onion
 RRR
 Nope
 Aftersun
-Dune
-Spider-Man: No Way Home
 The Power of the Dog
 Drive My Car
 Encanto
@@ -38,7 +35,7 @@ Sound of Metal
 Tenet
 Parasite
 Joker
-Avengers: Endgame
+Avengers
 1917
 Once Upon a Time in Hollywood
 Knives Out
@@ -51,8 +48,6 @@ Portrait of a Lady on Fire
 The Lighthouse
 Midsommar
 Us
-Spider-Man: Into the Spider-Verse
-Avengers: Infinity War
 Black Panther
 A Star Is Born
 Roma
@@ -60,7 +55,6 @@ Green Book
 The Favourite
 Hereditary
 A Quiet Place
-Mission: Impossible - Fallout
 BlacKkKlansman
 Get Out
 Logan
@@ -70,26 +64,25 @@ The Shape of Water
 Dunkirk
 Lady Bird
 Three Billboards Outside Ebbing, Missouri
-Thor: Ragnarok
+Thor
 Baby Driver
 Call Me by Your Name
 La La Land
 Arrival
 Moonlight
 Deadpool
-Captain America: Civil War
-Rogue One: A Star Wars Story
+Captain America
+Rogue One
 Zootopia
 Your Name.
 Manchester by the Sea
 Hacksaw Ridge
 Lion
 Train to Busan
-Mad Max: Fury Road
+Mad Max
 The Martian
 The Revenant
 Inside Out
-Star Wars: Episode VII - The Force Awakens
 Sicario
 Spotlight
 The Big Short
@@ -122,17 +115,15 @@ Life of Pi
 Argo
 Silver Linings Playbook
 Wreck-It Ralph
-Harry Potter and the Deathly Hallows: Part 2
 The Intouchables
 Drive
-X-Men: First Class
+X-Men
 Rise of the Planet of the Apes
 Moneyball
 Warrior
 Inception
 The Social Network
 Shutter Island
-Toy Story 3
 Tangled
 How to Train Your Dragon
 Black Swan
@@ -145,13 +136,13 @@ Twisters
 The Zone of Interest
 Monster
 The Boy and the Heron
-John Wick: Chapter 4
-Guardians of the Galaxy Vol. 3
+John Wick
+Guardians of the Galaxy
 Mission: Impossible - Dead Reckoning
 Guillermo del Toro's Pinocchio
 Decision to Leave
 The Fabelmans
-Puss in Boots: The Last Wish
+Puss in Boots
 Licorice Pizza
 Tick, Tick... Boom!
 Boiling Point
@@ -159,17 +150,16 @@ Mank
 The Trial of the Chicago 7
 Palm Springs
 The Invisible Man
-Toy Story 4
-John Wick: Chapter 3 - Parabellum
-Spider-Man: Far From Home
+Toy Story
+John Wick
 Alita: Battle Angel
-Deadpool 2
+Deadpool
 Isle of Dogs
 First Man
 Searching
 Wonder Woman
-Spider-Man: Homecoming
-Star Wars: Episode VIII - The Last Jedi
+Spider-Man
+Star Wars
 The Greatest Showman
 Phantom Thread
 Wind River
@@ -181,8 +171,8 @@ Creed
 The Hateful Eight
 Bridge of Spies
 Straight Outta Compton
-Captain America: The Winter Soldier
-X-Men: Days of Future Past
+Captain America
+X-Men
 Big Hero 6
 What We Do in the Shadows
 Iron Man 3
@@ -194,7 +184,8 @@ The Hunger Games
 Looper
 Prometheus
 The Perks of Being a Wallflower
-The Raid: Redemption
+The Raid
 The Girl with the Dragon Tattoo
-Mission: Impossible - Ghost Protocol
+Mission Impossible
 Midnight in Paris
+Harry Potter 
